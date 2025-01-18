@@ -71,7 +71,7 @@
     "eslint": "8.21.0",
     "exports-loader": "1.1.1",
     "expose-loader": "1.0.3",
-    "express": "4.19.2",
+    "express": "4.21.2",
     "file-loader": "6.2.0",
     "file-system": "2.2.2",
     "fs-then-native": "2.0.0",
